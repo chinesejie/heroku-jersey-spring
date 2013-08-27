@@ -1,0 +1,4 @@
+heroku support jersey-spring
+
+demo here:
+http://noprofile.herokuapp.com/rest/payment/mkyong
